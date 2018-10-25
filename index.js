@@ -10,3 +10,4 @@ function logShout(string) {
 function logWhisper(string) {
   console.log("hello")
 }
+var sayHiToGranma = "I can't hear you!";
